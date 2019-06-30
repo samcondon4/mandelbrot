@@ -6,3 +6,10 @@ written by Sean Barret.  Interact with this program on the command line by speci
 2. xRange: range of x values that the window will span (how zoomed in the set will appear).
 3. centerX: specify the x-coordinate that will correspond to the center of the window.
 4. centerI: specify the coordinate on the imaginary plane that will correspond to the center of the window.
+
+Examples:
+a) maxIterations = 200
+xRange = default
+centerX = default
+centerI = default
+
