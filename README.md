@@ -9,8 +9,11 @@ written by Sean Barret.  Interact with this program on the command line by speci
 
 Examples:
 a) maxIterations = 200,
+
 xRange = default,
+
 centerX = default,
+
 centerI = default,
 
 ![mandelbrot](https://user-images.githubusercontent.com/36753018/60391514-cf047280-9aa4-11e9-9455-cf21840d4d6f.png)
