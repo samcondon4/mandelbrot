@@ -40,3 +40,6 @@ c) main.c also contains a function called mandelbrotCubed() that can be used ins
    centerX = 0
    
    centerI = default
+   
+   
+![screenshot_4](https://user-images.githubusercontent.com/36753018/60470014-a9e24200-9c13-11e9-8f97-13e4a421ec4b.png)
