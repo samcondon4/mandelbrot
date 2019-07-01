@@ -8,7 +8,8 @@ written by Sean Barret.  Interact with this program on the command line by speci
 4. centerI: specify the coordinate on the imaginary plane that will correspond to the center of the window.
 
 Examples:
-a) maxIterations = 200,
+a) 
+maxIterations = 200,
 
 xRange = default,
 
@@ -17,4 +18,13 @@ centerX = default,
 centerI = default,
 
 ![mandelbrot](https://user-images.githubusercontent.com/36753018/60391514-cf047280-9aa4-11e9-9455-cf21840d4d6f.png)
+
+b) 
+maxIterations = 250,
+
+xRange = 0.5,
+
+centerX = -0.75
+
+centerI = 0.25
 
