@@ -29,3 +29,14 @@ centerX = -0.75
 centerI = 0.25
 
 ![screenshot_3](https://user-images.githubusercontent.com/36753018/60469457-93d38200-9c11-11e9-86b2-0a2f72685359.png)
+
+c) main.c also contains a function called mandelbrotCubed() that can be used instead of mandelbrotSquared() to create
+   a variation of the original set.  
+   
+   maxIterations = 250
+   
+   xRange = 4
+   
+   centerX = 0
+   
+   centerI = default
